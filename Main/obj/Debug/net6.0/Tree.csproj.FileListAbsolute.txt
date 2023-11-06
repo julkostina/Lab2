@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\Lab_work2\Main\bin\Debug\net6.0\Tree.exe
+C:\Users\User\source\repos\Lab_work2\Main\bin\Debug\net6.0\Tree.deps.json
+C:\Users\User\source\repos\Lab_work2\Main\bin\Debug\net6.0\Tree.runtimeconfig.json
+C:\Users\User\source\repos\Lab_work2\Main\bin\Debug\net6.0\Tree.dll
+C:\Users\User\source\repos\Lab_work2\Main\bin\Debug\net6.0\Tree.pdb
+C:\Users\User\source\repos\Lab_work2\Main\obj\Debug\net6.0\Tree.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Lab_work2\Main\obj\Debug\net6.0\Tree.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Lab_work2\Main\obj\Debug\net6.0\Tree.AssemblyInfo.cs
+C:\Users\User\source\repos\Lab_work2\Main\obj\Debug\net6.0\Tree.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Lab_work2\Main\obj\Debug\net6.0\Tree.dll
+C:\Users\User\source\repos\Lab_work2\Main\obj\Debug\net6.0\refint\Tree.dll
+C:\Users\User\source\repos\Lab_work2\Main\obj\Debug\net6.0\Tree.pdb
+C:\Users\User\source\repos\Lab_work2\Main\obj\Debug\net6.0\Tree.genruntimeconfig.cache
+C:\Users\User\source\repos\Lab_work2\Main\obj\Debug\net6.0\ref\Tree.dll

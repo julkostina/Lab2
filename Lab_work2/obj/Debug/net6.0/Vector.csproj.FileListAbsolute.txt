@@ -1,0 +1,4 @@
+C:\Users\User\source\repos\Lab_work2\Lab_work2\obj\Debug\net6.0\Vector.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Lab_work2\Lab_work2\obj\Debug\net6.0\Vector.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Lab_work2\Lab_work2\obj\Debug\net6.0\Vector.AssemblyInfo.cs
+C:\Users\User\source\repos\Lab_work2\Lab_work2\obj\Debug\net6.0\Vector.csproj.CoreCompileInputs.cache

@@ -1,0 +1,47 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "OutputProject/1.0.0": {
+        "dependencies": {
+          "Tree": "1.0.0",
+          "Vector1": "1.0.0"
+        },
+        "runtime": {
+          "OutputProject.dll": {}
+        }
+      },
+      "Tree/1.0.0": {
+        "runtime": {
+          "Tree.dll": {}
+        }
+      },
+      "Vector1/1.0.0": {
+        "runtime": {
+          "Vector1.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "OutputProject/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Tree/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Vector1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
